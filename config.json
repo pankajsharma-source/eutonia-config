@@ -5,5 +5,6 @@
     "update_url": "https://apps.apple.com/app/id0000000000",
     "update_message": "A new version of eutonia is available. Please update to continue.",
     "maintenance_mode": false,
-    "maintenance_message": "eutonia is temporarily unavailable for maintenance."
+    "maintenance_message": "eutonia is temporarily unavailable for maintenance.",
+    "enable_sleep_duration_multiplier": true
   }
